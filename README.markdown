@@ -9,14 +9,14 @@ Dys-Locate is a machine learning-based system designed to detect and transcribe 
 
 ## Project Structure
 
-- README.md - Project Documentation
-- proj.ipynb - Jupyter notebook for the model building
-- torgo - Dataset direcotry
-- app.py - Streamlit interface for the application
-- requirements.txt - Python dependencies
-- dysarthia_detection_model.h5 - the final trained model
-- mfcc_data.pkl - pickle file containing the MFCCs for future use
-- processed_data.pkl - pickle file containing the preprocessed audio file
+- **README.md** - Project Documentation
+- **proj.ipynb** - Jupyter notebook for the model building
+- **torgo** - Dataset direcotry
+- **app.py** - Streamlit interface for the application
+- **requirements.txt** - Python dependencies
+- **dysarthia_detection_model.h5** - the final trained model
+- **mfcc_data.pkl** - pickle file containing the MFCCs for future use
+- **processed_data.pkl** - pickle file containing the preprocessed audio file
 
 ## Getting Started
 ### **Prerequisistes**
